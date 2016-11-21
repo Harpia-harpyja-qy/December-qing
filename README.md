@@ -1,7 +1,4 @@
 # song
-some of China's ancient songs,
-the song lyrics is very beautiful,
-and the voice of the singer special beauty.
 
  
 首发
